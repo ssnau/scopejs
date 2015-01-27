@@ -1,0 +1,32 @@
+{
+  "name": "scopejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lodash": "^3.0.0",
+    "object-keys": "^1.0.3",
+    "deepequal": "^0.0.1",
+    "util-each": "^1.0.1"
+  },
+  "devDependencies": {
+    "sinon": "^1.12.2",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssnau/scopejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssnau/scopejs/issues"
+  },
+  "homepage": "https://github.com/ssnau/scopejs"
+}
